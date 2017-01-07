@@ -1,0 +1,45 @@
+{
+    "author": "przemek2122",
+    "context": "server",
+    "description": "PMH MEGA MOD.",
+    "display_name": "Sup up",
+    "enabled": true,
+    "identifier": "com.test.pmh",
+    "dependencies": [],
+    "priority": 100,
+    "forum": "https://forums.uberent.com/threads/nuke-warfare-mod.72225/",
+    "date": "2017-01-06",
+    "version": "1.9",
+    "signature": "",
+    "url": "https://www.dropbox.com/s/u0idvslxh8p8emw/com.przemek2122.nuke_warfare.zip?dl=1",
+    "download": "https://cdn.palobby.com/community-mods/downloads/com.przemek2122.nuke_warfare.zip",
+    "unitList": {
+        "units": [
+            "/pa/units/commanders/base_commander/base_commander.json"
+        ]
+    },
+    "build": "1.0",
+    "fileSystem": false,
+    "searchable": [
+        "nuke",
+        "warfare",
+        "przemek2122",
+        "s03g"
+    ],
+    "sort": "nuke warfare",
+    "authors": [
+        "Przemek2122",
+        "s03g"
+    ],
+    "icon": "",
+    "timestamp": 1483660800000,
+    "companions": [],
+    "scenes": {},
+    "framework": false,
+    "available": true,
+    "titansOnly": false,
+    "classicOnly": false,
+    "classic": false,
+    "titans": false,
+    "conflicts": {}
+}
